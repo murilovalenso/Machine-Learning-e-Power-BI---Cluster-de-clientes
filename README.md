@@ -40,4 +40,10 @@ Considerando os dados históricos de compras realizados pelos clientes, enfrenta
 Certifique-se de possuir todas as credenciais e permissões necessárias para acessar os dados dos clientes.
 O Power BI e o Jupyter Notebook são ferramentas poderosas para análise e visualização de dados, mas também exigem um aprendizado prévio para utilizá-las eficientemente.
 
+## Gerando Relatório dos Segmentos de Clientes com Power BI no Jupyter Notebook
+![Tabelas]()
+
+## Editando o Relatório dos Segmentos de Clientes no Power BI
+![Tabelas]()
+
 
