@@ -44,6 +44,6 @@ O Power BI e o Jupyter Notebook são ferramentas poderosas para análise e visua
 ![Tabelas](https://github.com/murilovalenso/Machine-Learning-e-Power-BI---Cluster-de-clientes/blob/main/Power%20BI-parte%201.png)
 
 ## Editando o Relatório dos Segmentos de Clientes no Power BI
-![Tabelas]()
+![Tabelas](https://github.com/murilovalenso/Machine-Learning-e-Power-BI---Cluster-de-clientes/blob/main/Power_BI-parte%202.png)
 
 
