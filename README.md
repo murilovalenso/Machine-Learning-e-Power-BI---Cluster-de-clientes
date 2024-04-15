@@ -41,7 +41,7 @@ Certifique-se de possuir todas as credenciais e permissões necessárias para ac
 O Power BI e o Jupyter Notebook são ferramentas poderosas para análise e visualização de dados, mas também exigem um aprendizado prévio para utilizá-las eficientemente.
 
 ## Gerando Relatório dos Segmentos de Clientes com Power BI no Jupyter Notebook
-![Tabelas]()
+![Tabelas](https://github.com/murilovalenso/Machine-Learning-e-Power-BI---Cluster-de-clientes/blob/main/Power%20BI-parte%201.png)
 
 ## Editando o Relatório dos Segmentos de Clientes no Power BI
 ![Tabelas]()
